@@ -15,3 +15,6 @@ Sistema de Notas: Aplicación web con manejo de sesiones y bases de datos.
 
 📈 Experiencia Previa
 Actualmente me encuentro en formación técnica en SENATI, trabajando con metodologías ágiles como Scrum.
+
+
+nuevo cambio para la nota de branch xd uwu
